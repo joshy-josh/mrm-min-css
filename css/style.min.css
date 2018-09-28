@@ -2381,7 +2381,7 @@ h1.splash {
   line-height: 60vh;
   font-size: 3rem;
   font-weight: 400;
-  color: #f22f21
+  color: #0277bd;
 }
 
 h1.splash small {
@@ -2393,7 +2393,7 @@ h1.splash small {
 h1.splash::first-letter {
   font-size: 1.33em;
   color: #fff;
-  background: #f22f21;
+  background: #0277bd;
   border-radius: 6px;
   padding: 0 10px
 }
@@ -2418,7 +2418,7 @@ a.button.splash {
   left: 25vw;
   text-align: center;
   font-size: 1.25rem;
-  border-color: #f22f21;
+  border-color: #0277bd;
   background: rgba(255, 255, 255, 0.35);
   transition: all 0.3s
 }
